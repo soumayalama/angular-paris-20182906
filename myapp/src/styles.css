@@ -1,3 +1,15 @@
-.card {
+.card
+.form-group
+{
   margin-top: 1rem;
 }
+.state-alivrer{
+  color:  rgb(255, 0, 0)
+}
+.state-encours{
+  color:  rgb(255, 0, 0)
+}
+.state-livrer{
+  color:  rgb(0, 255, 0)
+}
+
